@@ -25,5 +25,5 @@ This ambitious project will showcase my abilities across a wide spectrum of netw
 
 I drew inspiration for this lab from Jeremy of Jeremy's IT Lab, whose guidance was pivotal during my CCNA journey. I highly recommend checking out his invaluable resources at [Jeremy's IT Lab](https://www.jeremysitlab.com/). This lab isn't just about learning; it's about mastering the tools of the trade and preparing for real-world networking challenges.
 
-I've set up a journal folder to document all the services I'm adding at each step of my lab. Check it out for detailed descriptions and updates. Now, let's dive in and get ready to learn—yayyyy! 🎉
+I've set up a journal folder to document all the services I'm adding at each step of my lab. Check it out for detailed descriptions and updates. Now, let's dive in and get ready to learn—yayyyy! 🚀
 
